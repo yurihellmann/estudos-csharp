@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yuri\\Documents\\Cursos\\04 - .NET\\EXEMPLOS-FUNDAMENTOS\\EXEMPLOS-FUNDAMENTOS.csproj",
+      "projectUniqueName": "C:\\Users\\yuri\\Documents\\Cursos\\04 - .NET\\estudos-csharp\\EXEMPLOS-FUNDAMENTOS\\EXEMPLOS-FUNDAMENTOS.csproj",
       "projectName": "EXEMPLOS-FUNDAMENTOS",
-      "projectPath": "C:\\Users\\yuri\\Documents\\Cursos\\04 - .NET\\EXEMPLOS-FUNDAMENTOS\\EXEMPLOS-FUNDAMENTOS.csproj",
+      "projectPath": "C:\\Users\\yuri\\Documents\\Cursos\\04 - .NET\\estudos-csharp\\EXEMPLOS-FUNDAMENTOS\\EXEMPLOS-FUNDAMENTOS.csproj",
       "packagesPath": "C:\\Users\\yuri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yuri\\Documents\\Cursos\\04 - .NET\\EXEMPLOS-FUNDAMENTOS\\obj\\",
+      "outputPath": "C:\\Users\\yuri\\Documents\\Cursos\\04 - .NET\\estudos-csharp\\EXEMPLOS-FUNDAMENTOS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yuri\\AppData\\Roaming\\NuGet\\NuGet.Config"
