@@ -1,0 +1,14 @@
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\bin\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.exe
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\bin\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.deps.json
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\bin\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.runtimeconfig.json
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\bin\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.dll
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\bin\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.pdb
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.AssemblyInfoInputs.cache
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.AssemblyInfo.cs
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.csproj.CoreCompileInputs.cache
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.dll
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\refint\EXEMPLOS-FUNDAMENTOS.dll
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.pdb
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\EXEMPLOS-FUNDAMENTOS.genruntimeconfig.cache
+C:\Users\yuri\Documents\Cursos\04 - .NET\EXEMPLOS-FUNDAMENTOS\obj\Debug\net8.0\ref\EXEMPLOS-FUNDAMENTOS.dll
