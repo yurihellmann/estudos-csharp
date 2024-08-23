@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EXEMPLOS_FUNDAMENTOS
-build_property.ProjectDir = C:\Users\yuri\Documents\Cursos\04 - .NET\estudos-csharp\EXEMPLOS-FUNDAMENTOS\
+build_property.ProjectDir = c:\Users\yuri\Documents\Cursos\04 - .NET\estudos-csharp\EXEMPLOS-FUNDAMENTOS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
